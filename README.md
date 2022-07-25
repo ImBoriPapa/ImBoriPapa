@@ -30,7 +30,7 @@
 <div align=center>
 <h3>Contact</h3>
 <a href="https://boricoding.tistory.com/">
-  <img src="https://img.shields.io/badge/TechBolg-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/TechBolg-F05032?style=for-the-badge&logo=blog&logoColor=white">
 </a>
 </div>
 
